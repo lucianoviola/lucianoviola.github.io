@@ -1,0 +1,59 @@
+# Site wide configuration
+
+title:            lucianogviola.com
+locale:           en_US
+url:              http://lucianogviola.com
+# url:              http://localhost:4000
+
+name: lucianogviola.com
+description: Thoughts on Data Science and Python
+
+# Jekyll configuration
+favicon: 
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+
+# Site owner
+owner:
+  name: Luciano G. Viola
+  avatar: biopic.png
+  bio: "Data Scientist & Engineer"
+  location: "São Paulo, Brazil"
+  email: viola.luciano@gmail.com
+  disqus-shortname: 
+  twitter: 
+  facebook: #username
+  google:
+    plus: #username
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: lucianoviola
+  stackoverflow: 6004275
+  linkedin: luciano-viola
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
