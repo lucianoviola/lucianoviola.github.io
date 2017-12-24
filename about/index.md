@@ -21,3 +21,7 @@ After one year of rigourous self-study I got offered a job as Data Scientist at 
 ### My goals for 2018:
 - Make 5 contributions to Pandas and Scikit-learn
 - Finish top 5% in a Kaggle competition
+
+
+{% include image.html img="images/meatgoogle.jpg" title="title for image" caption="Sunny evening @ Google West Campus, Mountain View (CA)"%}
+

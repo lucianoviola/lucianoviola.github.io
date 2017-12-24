@@ -1,7 +1,7 @@
 ---
 layout: post
 mathjax: true
-title:  "Electricity Load Clustering with K-means"
+title:  "Finding energy-fingerprints with K-means"
 date:   2017-10-10 12:07:25 +0000
 categories: data
 tags: [K-means]
