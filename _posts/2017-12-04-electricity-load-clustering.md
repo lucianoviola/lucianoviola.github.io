@@ -330,7 +330,7 @@ In other words, "the within cluster variation for the *k*th cluster is the sum o
 
 One of the challenges is to find the optimal number of clusters since there are $$K^n$$ ways to segment *n* observations into *K* clusters. However,the K-means algorithm provides an elegant, yet simple, solution to find a local optimal. The algorithm is summarized in the following four steps:
 
-1. Randomly select $k$ centroids from the sample points as initial cluster centers;
+1. Randomly select *k* centroids from the sample points as initial cluster centers;
 2. Assign each sample to the nearest centroid $$\mu^{(j)}$$, $$j \epsilon \left\{ 1,...,k \right\}$$ (where nearest is measured by the square of the euclidean distance); 
 3. Move the centroids to the center of the samples that were assigned to it; 
 4. Repeat the steps 2 and 3 until the cluster assignments do not change or a maximum number of iterations is reached.
