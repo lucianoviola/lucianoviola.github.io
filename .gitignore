@@ -10,7 +10,7 @@ _asset_bundler_cache
 *.Rproj
 cache
 .Rproj.user
-
+notebooks
 .RData
 .Rhistory
 
