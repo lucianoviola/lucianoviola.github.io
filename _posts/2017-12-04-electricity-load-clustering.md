@@ -2,7 +2,8 @@
 layout: post
 mathjax: true
 title:  "Finding energy-fingerprints with K-means"
-date:   2017-10-10 12:07:25 +0000
+date:   2016-10-02
+description: A mini-project that applies the K-means clustering algorithm to segment electricity load curves into similar groups. 
 categories: data
 tags: [K-means]
 ---
