@@ -4,7 +4,7 @@ mathjax: true
 title:  "Clustering electricity usage profiles with K-means"
 date:   2018-09-20
 categories: data
-description: How to group similar patterns of energy consumption 
+description: In this article, we will go through how to find patterns in the daily load profiles of a single household with the K-means clustering algorithm.
 tags: [time-series, clustering, k-means]
 ---
 
