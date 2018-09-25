@@ -1,5 +1,5 @@
 ---
 layout: home
-excerpt: "Blog on Python and Machine Learning"
+excerpt: "Blog about Python and Machine Learning"
 tags: [blog]
 ---

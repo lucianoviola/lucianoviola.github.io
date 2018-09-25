@@ -18,6 +18,7 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
+  - jekyll-gist
 
 kramdown:
   auto_ids: true
@@ -26,11 +27,12 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
+search: true
 
 # Site owner
 owner:
   name: Luciano G. Viola
-  avatar: biopic.png
+  avatar: biopic.jpg
   bio: "Data Scientist & Engineer"
   location: "São Paulo, Brazil"
   email: viola.luciano@gmail.com

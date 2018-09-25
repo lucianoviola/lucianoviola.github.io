@@ -16,10 +16,6 @@ I had a lot of things to cover: programming, linear algebra, probability, and st
 
 After one year of rigorous self-study, I got offered a job as Data Scientist at a leading analytics startup in Brazil.
 
-### My goals for 2018:
-- Make 5 contributions to Pandas and Scikit-learn
-- Finish top 5% in a Kaggle competition
-
 
 {% include image.html img="images/meatgoogle.jpg" title="title for image" caption="Sunny evening @ Google West Campus, Mountain View (CA)"%}
 
