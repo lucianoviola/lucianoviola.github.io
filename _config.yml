@@ -12,7 +12,7 @@ description: Thoughts on Data Science and Python
 favicon: 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
