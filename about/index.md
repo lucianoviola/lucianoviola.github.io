@@ -6,7 +6,7 @@ comments: false
 ---
 
 
-Hi! Im a Data Scientist based in São Paulo, Brazil.
+Hi! 
 
 In 2016 I made a radical change in my life and career. I decided I wanted to get into tech and become a Data Scientist. 
 
